@@ -1,0 +1,14 @@
+Dependencies for Project 'SpaceInvaders', Target 'SpaceInvaders': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\startup.s)(0x6244A0B8)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_SpaceInvaders-IC:\Users\Ethan\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Ethan\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 535" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\Nokia5110.c)(0x625F3C80)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\.. --C99-I.\RTE\_SpaceInvaders-IC:\Users\Ethan\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Ethan\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="535" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\nokia5110.o --omf_browse .\nokia5110.crf --depend .\nokia5110.d)
+I (Nokia5110.h)(0x62710316)
+F (.\PLL.c)(0x6244A0B6)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\.. --C99-I.\RTE\_SpaceInvaders-IC:\Users\Ethan\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Ethan\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="535" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025F66E)
+I (PLL.h)(0x6244A0B6)
+I (tm4c123gh6pm.h)(0x6244A0B8)
+F (.\SapceInvadersV0.c)(0x62721B4A)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\.. --C99-I.\RTE\_SpaceInvaders-IC:\Users\Ethan\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Ethan\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="535" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\sapceinvadersv0.o --omf_browse .\sapceinvadersv0.crf --depend .\sapceinvadersv0.d)
+I (Nokia5110.h)(0x62710316)
+I (PLL.h)(0x6244A0B6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025F66E)
+I (tm4c123gh6pm.h)(0x6244A0B8)
